@@ -16,5 +16,19 @@
           background-color: #black;
           color: #blue;
         }
-        /*
-        
+        /* Hero Section */
+	.hero {
+ 	   background-color: grey;
+     	   color: white;
+	   text-align: center;
+    	   padding: 60px 20px;
+	}
+ 	.hero h1 {
+         font-size: 2.5rem;
+	 margin-bottom: 10px;
+  	}
+   	.hero p {
+    	    font-size: 1.2rem;
+	    margin-bottom: 20px;
+     }
+     
